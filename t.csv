@@ -1,0 +1,691 @@
+Time,Behavior,colony_id
+0,Transport,T_ambiguus.csv
+0.0372031108743259,Transport,T_ambiguus.csv
+0.0708972062199376,Transport,T_ambiguus.csv
+0.0882984519581815,Transport,T_ambiguus.csv
+0.0916159431554577,Transport,T_ambiguus.csv
+0.109651528346054,Transport,T_ambiguus.csv
+0.129719173109924,Transport,T_ambiguus.csv
+0.141683029495351,Transport,T_ambiguus.csv
+0.148698796671793,Transport,T_ambiguus.csv
+0.161338798845119,Transport,T_ambiguus.csv
+0.172771397825769,Transport,T_ambiguus.csv
+0.177261428448532,Transport,T_ambiguus.csv
+0.189827477176307,Reverse tandem run,T_ambiguus.csv
+0.195485670387984,Reverse tandem run,T_ambiguus.csv
+0.217859606175264,Transport,T_ambiguus.csv
+0.221674245637124,Transport,T_ambiguus.csv
+0.232990632060479,Transport,T_ambiguus.csv
+0.250702784120837,Transport,T_ambiguus.csv
+0.258360738870384,Reverse tandem run,T_ambiguus.csv
+0.259388238987351,Tandem run,T_ambiguus.csv
+0.264525890497586,Queen transport,T_ambiguus.csv
+0.271309836261035,Transport,T_ambiguus.csv
+0.277821059828337,Reverse tandem run,T_ambiguus.csv
+0.279256360373631,Reverse tandem run,T_ambiguus.csv
+0.287407388401987,Transport,T_ambiguus.csv
+0.288425078368014,Transport,T_ambiguus.csv
+0.293860203839844,Transport,T_ambiguus.csv
+0.308235093475646,Transport,T_ambiguus.csv
+0.3175074972192,Transport,T_ambiguus.csv
+0.319996257050103,Transport,T_ambiguus.csv
+0.320452051755338,Transport,T_ambiguus.csv
+0.324864355797573,Transport,T_ambiguus.csv
+0.327581767608089,Transport,T_ambiguus.csv
+0.32916422041749,Transport,T_ambiguus.csv
+0.340260255758181,Transport,T_ambiguus.csv
+0.353313793524999,Reverse tandem run,T_ambiguus.csv
+0.355427503739177,Transport,T_ambiguus.csv
+0.359276856042827,Transport,T_ambiguus.csv
+0.359728877613085,Transport,T_ambiguus.csv
+0.360179389929352,Transport,T_ambiguus.csv
+0.369763152771217,Transport,T_ambiguus.csv
+0.380331703842108,Transport,T_ambiguus.csv
+0.383913918189378,Transport,T_ambiguus.csv
+0.390176567624389,Transport,T_ambiguus.csv
+0.435229308505099,Transport,T_ambiguus.csv
+0.43643595707078,Transport,T_ambiguus.csv
+0.444359540522715,Transport,T_ambiguus.csv
+0.454773393059545,Transport,T_ambiguus.csv
+0.465980358568563,Transport,T_ambiguus.csv
+0.475449418107124,Transport,T_ambiguus.csv
+0.480205832059272,Transport,T_ambiguus.csv
+0.487676639313954,Transport,T_ambiguus.csv
+0.495371570786276,Transport,T_ambiguus.csv
+0.495827365491511,Transport,T_ambiguus.csv
+0.504769695387267,Transport,T_ambiguus.csv
+0.531518203867011,Transport,T_ambiguus.csv
+0.571930743352868,Transport,T_ambiguus.csv
+0.621621119896646,Transport,T_ambiguus.csv
+0.638260494220312,Transport,T_ambiguus.csv
+0.726025877668927,Transport,T_ambiguus.csv
+0.788084288816881,Transport,T_ambiguus.csv
+0.792572659260254,Transport,T_ambiguus.csv
+0.829511952536981,Transport,T_ambiguus.csv
+0.839021158231698,Transport,T_ambiguus.csv
+0.8807121867732,Transport,T_ambiguus.csv
+0.913955166100948,Transport,T_ambiguus.csv
+0.957858157291433,Transport,T_ambiguus.csv
+1,Transport,T_ambiguus.csv
+0,Tandem run,T_americanus.csv
+0.117418947140183,Transport,T_americanus.csv
+0.195961550531794,Transport,T_americanus.csv
+0.263051978248961,Reverse tandem run,T_americanus.csv
+0.278835674670197,Transport,T_americanus.csv
+0.433340727278952,Transport,T_americanus.csv
+0.463294765942393,Transport,T_americanus.csv
+0.511978191902132,Transport,T_americanus.csv
+0.531321324234263,Transport,T_americanus.csv
+0.543807701305519,Transport,T_americanus.csv
+0.599970899712421,Transport,T_americanus.csv
+0.644548546126809,Transport,T_americanus.csv
+0.652035450997398,Transport,T_americanus.csv
+0.690640762655772,Transport,T_americanus.csv
+0.729336299470489,Transport,T_americanus.csv
+0.841403432692747,Transport,T_americanus.csv
+0.854582368078696,Transport,T_americanus.csv
+0.865195057515862,Transport,T_americanus.csv
+0.908255994088648,Transport,T_americanus.csv
+0.909506307915278,Transport,T_americanus.csv
+0.932596458894417,Transport,T_americanus.csv
+0.939460346578719,Transport,T_americanus.csv
+1,Transport,T_americanus.csv
+0,Tandem run,T_caguatan.csv
+0.0572893639367456,Reverse tandem run,T_caguatan.csv
+0.0811575712406365,Tandem run,T_caguatan.csv
+0.128571325452095,Tandem run,T_caguatan.csv
+0.208423637941831,Tandem run,T_caguatan.csv
+0.28710441167713,Transport,T_caguatan.csv
+0.298630497903971,Transport,T_caguatan.csv
+0.37712936913396,Brood transport,T_caguatan.csv
+0.390440012776485,Transport,T_caguatan.csv
+0.422921881175076,Transport,T_caguatan.csv
+0.43686268706814,Transport,T_caguatan.csv
+0.453420867898719,Transport,T_caguatan.csv
+0.46708809819848,Transport,T_caguatan.csv
+0.480578478840299,Transport,T_caguatan.csv
+0.485720833792,Transport,T_caguatan.csv
+0.488519389399487,Transport,T_caguatan.csv
+0.495285873862884,Transport,T_caguatan.csv
+0.506835239279392,Transport,T_caguatan.csv
+0.50985972934784,Transport,T_caguatan.csv
+0.513559857293154,Transport,T_caguatan.csv
+0.520910306545422,Transport,T_caguatan.csv
+0.524069057986837,Transport,T_caguatan.csv
+0.531648329041421,Transport,T_caguatan.csv
+0.541032188442333,Transport,T_caguatan.csv
+0.542249924658437,Transport,T_caguatan.csv
+0.546266216482027,Transport,T_caguatan.csv
+0.54725801823717,Transport,T_caguatan.csv
+0.549694212504715,Transport,T_caguatan.csv
+0.564584953703286,Transport,T_caguatan.csv
+0.567382065640097,Transport,T_caguatan.csv
+0.575546745154229,Transport,T_caguatan.csv
+0.580148445437369,Transport,T_caguatan.csv
+0.588492861950796,Transport,T_caguatan.csv
+0.58912518970735,Transport,T_caguatan.csv
+0.596207116213685,Transport,T_caguatan.csv
+0.603019798138748,Transport,T_caguatan.csv
+0.604824386485077,Transport,T_caguatan.csv
+0.607397007631604,Transport,T_caguatan.csv
+0.608027891717481,Transport,T_caguatan.csv
+0.61727604607475,Transport,T_caguatan.csv
+0.619351322673028,Transport,T_caguatan.csv
+0.628689706447614,Reverse tandem run,T_caguatan.csv
+0.640376942413781,Transport,T_caguatan.csv
+0.643595606188294,Queen transport,T_caguatan.csv
+0.644677637360753,Transport,T_caguatan.csv
+0.652889236171891,Transport,T_caguatan.csv
+0.661100113147689,Transport,T_caguatan.csv
+0.662590703121757,Transport,T_caguatan.csv
+0.663806273831845,Transport,T_caguatan.csv
+0.670329138868487,Transport,T_caguatan.csv
+0.6717287775899,Transport,T_caguatan.csv
+0.674977036613293,Transport,T_caguatan.csv
+0.689096857670312,Transport,T_caguatan.csv
+0.700421732296537,Transport,T_caguatan.csv
+0.723610331629201,Transport,T_caguatan.csv
+0.724963772888948,Transport,T_caguatan.csv
+0.743009656352241,Transport,T_caguatan.csv
+0.753837186430218,Transport,T_caguatan.csv
+0.768498203532301,Transport,T_caguatan.csv
+0.823720591977161,Transport,T_caguatan.csv
+0.864322025181226,Transport,T_caguatan.csv
+0.890087937590117,Transport,T_caguatan.csv
+0.911873830401178,Transport,T_caguatan.csv
+1,Transport,T_caguatan.csv
+0,Transport,T_carinatus.csv
+0.044908979720225,Transport,T_carinatus.csv
+0.0945119585367138,Transport,T_carinatus.csv
+0.124967387260514,Tandem run,T_carinatus.csv
+0.126238525664669,Tandem run,T_carinatus.csv
+0.127196549835619,Transport,T_carinatus.csv
+0.212626119890338,Transport,T_carinatus.csv
+0.254807445125174,Tandem run,T_carinatus.csv
+0.261948557295434,Tandem run,T_carinatus.csv
+0.271926379035876,Tandem run,T_carinatus.csv
+0.300513660626324,Transport,T_carinatus.csv
+0.309437176766636,Tandem run,T_carinatus.csv
+0.341970080905141,Transport,T_carinatus.csv
+0.342208788594403,Tandem run,T_carinatus.csv
+0.347679106610526,Tandem run,T_carinatus.csv
+0.349674191946529,Transport,T_carinatus.csv
+0.355301785597384,Tandem run,T_carinatus.csv
+0.398456782731295,Transport,T_carinatus.csv
+0.398576535752664,Tandem run,T_carinatus.csv
+0.411466750972794,Transport,T_carinatus.csv
+0.411707055369007,Tandem run,T_carinatus.csv
+0.435978597740021,Transport,T_carinatus.csv
+0.440090916493823,Transport,T_carinatus.csv
+0.47605514387128,Transport,T_carinatus.csv
+0.483998760955406,Tandem run,T_carinatus.csv
+0.497888514727227,Transport,T_carinatus.csv
+0.551499547333579,Transport,T_carinatus.csv
+0.554332903819164,Tandem run,T_carinatus.csv
+0.59535038935699,Tandem run,T_carinatus.csv
+0.596904783574356,Transport,T_carinatus.csv
+0.636305922665096,Tandem run,T_carinatus.csv
+0.665645412900434,Transport,T_carinatus.csv
+0.686083261880697,Transport,T_carinatus.csv
+0.692270501318082,Transport,T_carinatus.csv
+0.698696448444728,Transport,T_carinatus.csv
+0.71330871211214,Transport,T_carinatus.csv
+0.730271328412283,Transport,T_carinatus.csv
+0.734623951562298,Transport,T_carinatus.csv
+0.749214180673778,Transport,T_carinatus.csv
+0.760470964682439,Transport,T_carinatus.csv
+0.918327641073051,Transport,T_carinatus.csv
+1,Transport,T_carinatus.csv
+0,Tandem run,T_curvispinosus.csv
+0.0757875833434163,Tandem run,T_curvispinosus.csv
+0.15547956206807,Transport,T_curvispinosus.csv
+0.182206768797951,Transport,T_curvispinosus.csv
+0.219713871075704,Transport,T_curvispinosus.csv
+0.227493651288953,Transport,T_curvispinosus.csv
+0.253232376622026,Transport,T_curvispinosus.csv
+0.265263263658485,Transport,T_curvispinosus.csv
+0.265615989482615,Transport,T_curvispinosus.csv
+0.295243897347941,Transport,T_curvispinosus.csv
+0.303734789804419,Transport,T_curvispinosus.csv
+0.311818119422987,Transport,T_curvispinosus.csv
+0.319958408778451,Transport,T_curvispinosus.csv
+0.331560505745858,Transport,T_curvispinosus.csv
+0.365520537699916,Transport,T_curvispinosus.csv
+0.36658649849039,Transport,T_curvispinosus.csv
+0.408464995234487,Transport,T_curvispinosus.csv
+0.429871242691641,Transport,T_curvispinosus.csv
+0.447207876151843,Transport,T_curvispinosus.csv
+0.46357124106422,Transport,T_curvispinosus.csv
+0.481698942671617,Transport,T_curvispinosus.csv
+0.48712108507945,Transport,T_curvispinosus.csv
+0.523825798020065,Transport,T_curvispinosus.csv
+0.525988852873353,Transport,T_curvispinosus.csv
+0.538331780207588,Transport,T_curvispinosus.csv
+0.56300843640923,Transport,T_curvispinosus.csv
+0.584629078900911,Transport,T_curvispinosus.csv
+0.594447734665271,Transport,T_curvispinosus.csv
+0.603998219742882,Transport,T_curvispinosus.csv
+0.636901135586109,Transport,T_curvispinosus.csv
+0.64512774901488,Transport,T_curvispinosus.csv
+0.659456130035188,Transport,T_curvispinosus.csv
+0.719256778031797,Transport,T_curvispinosus.csv
+0.741014689951524,Transport,T_curvispinosus.csv
+0.746055095986001,Transport,T_curvispinosus.csv
+0.759058543995913,Transport,T_curvispinosus.csv
+0.761976580703456,Transport,T_curvispinosus.csv
+1,Transport,T_curvispinosus.csv
+0,Tandem run,T_duloticus.csv
+0.0819523757306859,Tandem run,T_duloticus.csv
+0.0868998916699102,Tandem run,T_duloticus.csv
+0.0978166486116517,Tandem run,T_duloticus.csv
+0.108528674938635,Tandem run,T_duloticus.csv
+0.137276154968664,Tandem run,T_duloticus.csv
+0.153456621571304,Tandem run,T_duloticus.csv
+0.212712457719332,Reverse tandem run,T_duloticus.csv
+0.239548074339265,Reverse tandem run,T_duloticus.csv
+0.27154401105714,Transport,T_duloticus.csv
+0.272568869137493,Transport,T_duloticus.csv
+0.283565879516214,Reverse tandem run,T_duloticus.csv
+0.283879301722798,Reverse tandem run,T_duloticus.csv
+0.287104983786637,Transport,T_duloticus.csv
+0.305811505643648,Transport,T_duloticus.csv
+0.309186006017803,Transport,T_duloticus.csv
+0.310632616394596,Transport,T_duloticus.csv
+0.321659390435381,Tandem run,T_duloticus.csv
+0.326718610482834,Transport,T_duloticus.csv
+0.335274398069098,Transport,T_duloticus.csv
+0.33632974281545,Transport,T_duloticus.csv
+0.337172765405708,Transport,T_duloticus.csv
+0.343709684999235,Transport,T_duloticus.csv
+0.344191205621115,Transport,T_duloticus.csv
+0.350214551418233,Transport,T_duloticus.csv
+0.352713855526943,Transport,T_duloticus.csv
+0.355094345988714,Transport,T_duloticus.csv
+0.356212592077564,Transport,T_duloticus.csv
+0.356945477068123,Reverse tandem run,T_duloticus.csv
+0.359464663785094,Transport,T_duloticus.csv
+0.36131495135991,Reverse tandem run,T_duloticus.csv
+0.365566335008694,Transport,T_duloticus.csv
+0.366348384266952,Transport,T_duloticus.csv
+0.371590644811061,Transport,T_duloticus.csv
+0.372194594099565,Transport,T_duloticus.csv
+0.372433787901975,Reverse tandem run,T_duloticus.csv
+0.377858486439459,Transport,T_duloticus.csv
+0.382706468836723,Transport,T_duloticus.csv
+0.386321488520505,Transport,T_duloticus.csv
+0.389816248549473,Transport,T_duloticus.csv
+0.390117018187164,Transport,T_duloticus.csv
+0.392587161137092,Transport,T_duloticus.csv
+0.39370299721282,Transport,T_duloticus.csv
+0.393822172361729,Transport,T_duloticus.csv
+0.398402763803049,Tandem run,T_duloticus.csv
+0.400215093671185,Transport,T_duloticus.csv
+0.401122704613127,Reverse tandem run,T_duloticus.csv
+0.406971444959518,Tandem run,T_duloticus.csv
+0.407332705926584,Tandem run,T_duloticus.csv
+0.408990071950942,Transport,T_duloticus.csv
+0.410738777472643,Transport,T_duloticus.csv
+0.413937226388198,Transport,T_duloticus.csv
+0.41933179976165,Transport,T_duloticus.csv
+0.42077756663385,Transport,T_duloticus.csv
+0.421320422089698,Transport,T_duloticus.csv
+0.422043787528423,Transport,T_duloticus.csv
+0.422159950160929,Transport,T_duloticus.csv
+0.424056630488353,Transport,T_duloticus.csv
+0.42459888344092,Transport,T_duloticus.csv
+0.424690102437608,Transport,T_duloticus.csv
+0.425955359326932,Transport,T_duloticus.csv
+0.433065259540338,Transport,T_duloticus.csv
+0.433155153029808,Transport,T_duloticus.csv
+0.433808387086668,Reverse tandem run,T_duloticus.csv
+0.434119760782098,Transport,T_duloticus.csv
+0.435255599966742,Transport,T_duloticus.csv
+0.443662087240065,Transport,T_duloticus.csv
+0.44549839673877,Transport,T_duloticus.csv
+0.445980158361962,Transport,T_duloticus.csv
+0.448902660774988,Reverse tandem run,T_duloticus.csv
+0.449899442202463,Transport,T_duloticus.csv
+0.453494338276672,Transport,T_duloticus.csv
+0.454882867337213,Transport,T_duloticus.csv
+0.457259622278643,Transport,T_duloticus.csv
+0.4594283930876,Transport,T_duloticus.csv
+0.459790136057291,Transport,T_duloticus.csv
+0.461749115223932,Transport,T_duloticus.csv
+0.463887158365577,Transport,T_duloticus.csv
+0.467352154732483,Transport,T_duloticus.csv
+0.474039459144855,Transport,T_duloticus.csv
+0.476931474891881,Reverse tandem run,T_duloticus.csv
+0.478530518598674,Transport,T_duloticus.csv
+0.482387021597333,Transport,T_duloticus.csv
+0.483893520800221,Transport,T_duloticus.csv
+0.485640298311424,Transport,T_duloticus.csv
+0.488322522416135,Transport,T_duloticus.csv
+0.489044562347642,Transport,T_duloticus.csv
+0.494226813565,Transport,T_duloticus.csv
+0.494240068637174,Transport,T_duloticus.csv
+0.49689132407326,Transport,T_duloticus.csv
+0.50502511836177,Transport,T_duloticus.csv
+0.510267499406534,Transport,T_duloticus.csv
+0.512556409369649,Reverse tandem run,T_duloticus.csv
+0.516111178725368,Transport,T_duloticus.csv
+0.516412430365683,Transport,T_duloticus.csv
+0.52075021298491,Transport,T_duloticus.csv
+0.521114365967723,Transport,T_duloticus.csv
+0.522618214156176,Transport,T_duloticus.csv
+0.525028227278698,Transport,T_duloticus.csv
+0.526293484168021,Transport,T_duloticus.csv
+0.527709487378159,Transport,T_duloticus.csv
+0.529004748930858,Transport,T_duloticus.csv
+0.529064758257609,Transport,T_duloticus.csv
+0.534707562982681,Reverse tandem run,T_duloticus.csv
+0.542518415512773,Transport,T_duloticus.csv
+0.543873927393535,Transport,T_duloticus.csv
+0.546344190844119,Transport,T_duloticus.csv
+0.547308678095752,Transport,T_duloticus.csv
+0.5568889622604,Transport,T_duloticus.csv
+0.558695990099666,Transport,T_duloticus.csv
+0.55941875303511,Reverse tandem run,T_duloticus.csv
+0.562100254135884,Transport,T_duloticus.csv
+0.57071629205021,Transport,T_duloticus.csv
+0.572764080200417,Transport,T_duloticus.csv
+0.573486843135861,Transport,T_duloticus.csv
+0.574150078747179,Transport,T_duloticus.csv
+0.574631840370371,Transport,T_duloticus.csv
+0.576258599228073,Transport,T_duloticus.csv
+0.581862723242528,Transport,T_duloticus.csv
+0.584512653171397,Reverse tandem run,T_duloticus.csv
+0.590960402279391,Transport,T_duloticus.csv
+0.591080420932892,Transport,T_duloticus.csv
+0.591140671260955,Transport,T_duloticus.csv
+0.591983934852525,Transport,T_duloticus.csv
+0.594575421963173,Transport,T_duloticus.csv
+0.595237693569242,Transport,T_duloticus.csv
+0.595479176884118,Transport,T_duloticus.csv
+0.598612193943396,Transport,T_duloticus.csv
+0.604938839891983,Transport,T_duloticus.csv
+0.606685255901218,Transport,T_duloticus.csv
+0.607950512790542,Transport,T_duloticus.csv
+0.610722027881442,Transport,T_duloticus.csv
+0.611023520523069,Transport,T_duloticus.csv
+0.611263798831385,Transport,T_duloticus.csv
+0.612953579532241,Transport,T_duloticus.csv
+0.614276556235849,Transport,T_duloticus.csv
+0.615300811812921,Transport,T_duloticus.csv
+0.617259067975625,Transport,T_duloticus.csv
+0.617892057922256,Transport,T_duloticus.csv
+0.623571253845477,Transport,T_duloticus.csv
+0.624172793120859,Transport,T_duloticus.csv
+0.628210047103707,Transport,T_duloticus.csv
+0.628510816741397,Transport,T_duloticus.csv
+0.631765057460738,Transport,T_duloticus.csv
+0.635469247630053,Transport,T_duloticus.csv
+0.636493623707781,Transport,T_duloticus.csv
+0.637398101632664,Transport,T_duloticus.csv
+0.639988142735437,Transport,T_duloticus.csv
+0.641615142594452,Transport,T_duloticus.csv
+0.642398396859271,Transport,T_duloticus.csv
+0.642970895476526,Transport,T_duloticus.csv
+0.643335409961307,Transport,T_duloticus.csv
+0.654117688170812,Transport,T_duloticus.csv
+0.656948730585838,Transport,T_duloticus.csv
+0.658495597508528,Tandem run,T_duloticus.csv
+0.659369347766099,Transport,T_duloticus.csv
+0.661571135754834,Transport,T_duloticus.csv
+0.66370761238795,Transport,T_duloticus.csv
+0.663827872042763,Transport,T_duloticus.csv
+0.672819631002891,Reverse tandem run,T_duloticus.csv
+0.673870517224966,Transport,T_duloticus.csv
+0.678088281190691,Transport,T_duloticus.csv
+0.678991795110324,Transport,T_duloticus.csv
+0.679172546094514,Transport,T_duloticus.csv
+0.683572266050989,Transport,T_duloticus.csv
+0.686824578759831,Transport,T_duloticus.csv
+0.688571356271035,Transport,T_duloticus.csv
+0.693091335882324,Transport,T_duloticus.csv
+0.693453319853327,Transport,T_duloticus.csv
+0.697068098535797,Transport,T_duloticus.csv
+0.697490332834862,Transport,T_duloticus.csv
+0.704960168508118,Transport,T_duloticus.csv
+0.708695929849338,Transport,T_duloticus.csv
+0.710503198689917,Transport,T_duloticus.csv
+0.719179486932306,Transport,T_duloticus.csv
+0.72851756477814,Transport,T_duloticus.csv
+0.730475338938221,Transport,T_duloticus.csv
+0.734633093577195,Transport,T_duloticus.csv
+0.735875575842511,Transport,T_duloticus.csv
+0.750938398859582,Transport,T_duloticus.csv
+0.751359428152086,Transport,T_duloticus.csv
+0.801638929423971,Transport,T_duloticus.csv
+0.812034159525999,Transport,T_duloticus.csv
+0.818449614458151,Transport,T_duloticus.csv
+0.828450445912678,Transport,T_duloticus.csv
+0.832546624716372,Transport,T_duloticus.csv
+0.835783754342542,Transport,T_duloticus.csv
+0.880702904427315,Transport,T_duloticus.csv
+0.988821033630528,Transport,T_duloticus.csv
+1,Transport,T_duloticus.csv
+0,Tandem run,T_longispinosus.csv
+0.142959268720735,Transport,T_longispinosus.csv
+0.280162367707234,Transport,T_longispinosus.csv
+0.309100245678674,Transport,T_longispinosus.csv
+0.31187713061214,Transport,T_longispinosus.csv
+0.316076264977074,Transport,T_longispinosus.csv
+0.353267608862109,Transport,T_longispinosus.csv
+0.361589572547389,Transport,T_longispinosus.csv
+0.363220114127599,Transport,T_longispinosus.csv
+0.372502077765741,Transport,T_longispinosus.csv
+0.380934227113863,Reverse tandem run,T_longispinosus.csv
+0.393453704786683,Transport,T_longispinosus.csv
+0.39654877291766,Transport,T_longispinosus.csv
+0.410029870920737,Transport,T_longispinosus.csv
+0.417612058671803,Transport,T_longispinosus.csv
+0.426011800472031,Transport,T_longispinosus.csv
+0.437721089447484,Transport,T_longispinosus.csv
+0.454813124821206,Transport,T_longispinosus.csv
+0.457941337035258,Reverse tandem run,T_longispinosus.csv
+0.475212645071652,Transport,T_longispinosus.csv
+0.476799141848132,Transport,T_longispinosus.csv
+0.490276851789383,Reverse tandem run,T_longispinosus.csv
+0.515980309173899,Reverse tandem run,T_longispinosus.csv
+0.518447260103863,Transport,T_longispinosus.csv
+0.534137963645213,Transport,T_longispinosus.csv
+0.540543315486595,Reverse tandem run,T_longispinosus.csv
+0.575191698011149,Transport,T_longispinosus.csv
+0.580161100866725,Transport,T_longispinosus.csv
+0.586237958018084,Transport,T_longispinosus.csv
+0.592866038097724,Transport,T_longispinosus.csv
+0.603019322853125,Transport,T_longispinosus.csv
+0.608875219450657,Transport,T_longispinosus.csv
+0.613283677113584,Transport,T_longispinosus.csv
+0.635122681718696,Transport,T_longispinosus.csv
+0.646521152848432,Transport,T_longispinosus.csv
+0.663533789729813,Transport,T_longispinosus.csv
+0.664270914137381,Transport,T_longispinosus.csv
+0.665132512990271,Transport,T_longispinosus.csv
+0.667748685947587,Transport,T_longispinosus.csv
+0.684875633088814,Transport,T_longispinosus.csv
+0.706970215401186,Transport,T_longispinosus.csv
+0.709067867592187,Transport,T_longispinosus.csv
+0.719382306244846,Transport,T_longispinosus.csv
+0.742436593896009,Transport,T_longispinosus.csv
+0.767329273355015,Transport,T_longispinosus.csv
+0.773592031985661,Transport,T_longispinosus.csv
+0.799851573430643,Transport,T_longispinosus.csv
+0.80945982215327,Transport,T_longispinosus.csv
+0.855863011527365,Transport,T_longispinosus.csv
+0.864517299885601,Transport,T_longispinosus.csv
+0.870297627973724,Transport,T_longispinosus.csv
+0.886242878073083,Transport,T_longispinosus.csv
+0.965383583102233,Transport,T_longispinosus.csv
+1,Transport,T_longispinosus.csv
+0,Transport,T_obturator.csv
+0.0875386183634864,Transport,T_obturator.csv
+0.13216044736893,Transport,T_obturator.csv
+0.165924416533863,Transport,T_obturator.csv
+0.225778630413828,Transport,T_obturator.csv
+0.232384220747194,Brood transport,T_obturator.csv
+0.2864843180809,Transport,T_obturator.csv
+0.348536516352952,Brood transport,T_obturator.csv
+0.348829406599131,Brood transport,T_obturator.csv
+0.400477463403102,Brood transport,T_obturator.csv
+0.402407400918106,Brood transport,T_obturator.csv
+0.429473597774871,Transport,T_obturator.csv
+0.431011271567313,Transport,T_obturator.csv
+0.441501972563506,Brood transport,T_obturator.csv
+0.453464447046751,Transport,T_obturator.csv
+0.481545299399209,Brood transport,T_obturator.csv
+0.51874759084697,Brood transport,T_obturator.csv
+0.602820689976197,Transport,T_obturator.csv
+0.618968356870028,Transport,T_obturator.csv
+0.620899340421626,Brood transport,T_obturator.csv
+0.626944385895452,Transport,T_obturator.csv
+0.648127672950383,Transport,T_obturator.csv
+0.662936413004536,Brood transport,T_obturator.csv
+0.684969081773387,Transport,T_obturator.csv
+0.711840715823762,Transport,T_obturator.csv
+0.754037832005477,Transport,T_obturator.csv
+0.879771692053103,Transport,T_obturator.csv
+0.931059912268911,Transport,T_obturator.csv
+0.996340963995943,Transport,T_obturator.csv
+1,Transport,T_obturator.csv
+0,Tandem run,T_rudis.csv
+0.102093221869431,Tandem run,T_rudis.csv
+0.105690688389608,Tandem run,T_rudis.csv
+0.168406401475825,Reverse tandem run,T_rudis.csv
+0.22872224464643,Tandem run,T_rudis.csv
+0.23402634928378,Tandem run,T_rudis.csv
+0.295248754017471,Transport,T_rudis.csv
+0.377187529454257,Transport,T_rudis.csv
+0.410818085471488,Tandem run,T_rudis.csv
+0.414324895835357,Transport,T_rudis.csv
+0.428795704912772,Reverse tandem run,T_rudis.csv
+0.45020063070783,Transport,T_rudis.csv
+0.46108512541128,Transport,T_rudis.csv
+0.471877524971814,Tandem run,T_rudis.csv
+0.509292615768271,Transport,T_rudis.csv
+0.546722456177462,Tandem run,T_rudis.csv
+0.547535483611022,Transport,T_rudis.csv
+0.550318483711031,Transport,T_rudis.csv
+0.573076056917676,Transport,T_rudis.csv
+0.57748223391159,Transport,T_rudis.csv
+0.590794299022856,Transport,T_rudis.csv
+0.596458150312224,Transport,T_rudis.csv
+0.603201241557645,Reverse tandem run,T_rudis.csv
+0.611656726866671,Transport,T_rudis.csv
+0.628384946185498,Transport,T_rudis.csv
+0.633782584952373,Transport,T_rudis.csv
+0.634058870381123,Tandem run,T_rudis.csv
+0.657531619931979,Transport,T_rudis.csv
+0.708513476469331,Tandem run,T_rudis.csv
+0.718049640721019,Tandem run,T_rudis.csv
+0.763287062718951,Transport,T_rudis.csv
+0.788742735815729,Transport,T_rudis.csv
+0.793594998658145,Transport,T_rudis.csv
+0.823367631579137,Transport,T_rudis.csv
+0.852502793432753,Transport,T_rudis.csv
+0.898373369538236,Transport,T_rudis.csv
+0.906019784626874,Transport,T_rudis.csv
+0.964566753509508,Transport,T_rudis.csv
+1,Transport,T_rudis.csv
+0,Transport,T_rugatulus.csv
+0.0201083382674489,Transport,T_rugatulus.csv
+0.0261769868762512,Reverse tandem run,T_rugatulus.csv
+0.0450915223278193,Transport,T_rugatulus.csv
+0.0465567769804383,Transport,T_rugatulus.csv
+0.0555436721831681,Tandem run,T_rugatulus.csv
+0.0723789813226365,Transport,T_rugatulus.csv
+0.0803579652650341,Transport,T_rugatulus.csv
+0.132843205768156,Tandem run,T_rugatulus.csv
+0.14601266097073,Transport,T_rugatulus.csv
+0.15562634794022,Transport,T_rugatulus.csv
+0.206077511204704,Transport,T_rugatulus.csv
+0.211651888938296,Transport,T_rugatulus.csv
+0.214368776238544,Tandem run,T_rugatulus.csv
+0.227014836626545,Tandem run,T_rugatulus.csv
+0.305955622641257,Tandem run,T_rugatulus.csv
+0.340749533146039,Tandem run,T_rugatulus.csv
+0.350643311589781,Tandem run,T_rugatulus.csv
+0.368151397663424,Transport,T_rugatulus.csv
+0.401072736411488,Tandem run,T_rugatulus.csv
+0.426239861141516,Transport,T_rugatulus.csv
+0.428113965737149,Tandem run,T_rugatulus.csv
+0.442885934349624,Brood transport,T_rugatulus.csv
+0.457749873296929,Reverse tandem run,T_rugatulus.csv
+0.476143940262759,Transport,T_rugatulus.csv
+0.495517630643512,Tandem run,T_rugatulus.csv
+0.506423082770375,Transport,T_rugatulus.csv
+0.531504507870222,Reverse tandem run,T_rugatulus.csv
+0.535824326627349,Transport,T_rugatulus.csv
+0.537670979471524,Tandem run,T_rugatulus.csv
+0.556256929999567,Transport,T_rugatulus.csv
+0.561551216258906,Transport,T_rugatulus.csv
+0.569077037278782,Brood transport,T_rugatulus.csv
+0.5695640620064,Brood transport,T_rugatulus.csv
+0.570400155959392,Transport,T_rugatulus.csv
+0.571374623461605,Transport,T_rugatulus.csv
+0.576771052532201,Transport,T_rugatulus.csv
+0.579694873085815,Transport,T_rugatulus.csv
+0.601937201819285,Transport,T_rugatulus.csv
+0.608066606588671,Brood transport,T_rugatulus.csv
+0.609460653906294,Transport,T_rugatulus.csv
+0.609600420945436,Transport,T_rugatulus.csv
+0.609879118929766,Transport,T_rugatulus.csv
+0.616149823577208,Tandem run,T_rugatulus.csv
+0.625800577378614,Transport,T_rugatulus.csv
+0.627088580113199,Brood transport,T_rugatulus.csv
+0.634137827579869,Queen transport,T_rugatulus.csv
+0.64918751873373,Brood transport,T_rugatulus.csv
+0.650094541323735,Reverse tandem run,T_rugatulus.csv
+0.656853106792748,Transport,T_rugatulus.csv
+0.660196089114795,Brood transport,T_rugatulus.csv
+0.667964377381039,Brood transport,T_rugatulus.csv
+0.669637122682992,Brood transport,T_rugatulus.csv
+0.671448102185173,Transport,T_rugatulus.csv
+0.677301735299064,Brood transport,T_rugatulus.csv
+0.677650804524439,Brood transport,T_rugatulus.csv
+0.678763227528895,Transport,T_rugatulus.csv
+0.682248345822951,Brood transport,T_rugatulus.csv
+0.683084997171912,Transport,T_rugatulus.csv
+0.688657981415582,Transport,T_rugatulus.csv
+0.696182269596544,Transport,T_rugatulus.csv
+0.706355164071594,Brood transport,T_rugatulus.csv
+0.706911166550333,Brood transport,T_rugatulus.csv
+0.717363316405682,Brood transport,T_rugatulus.csv
+0.717988575333528,Transport,T_rugatulus.csv
+0.718546528698158,Transport,T_rugatulus.csv
+0.739205852880629,Transport,T_rugatulus.csv
+0.740599342802283,Brood transport,T_rugatulus.csv
+0.75035377225386,Transport,T_rugatulus.csv
+0.752024984716899,Brood transport,T_rugatulus.csv
+0.758992434325168,Brood transport,T_rugatulus.csv
+0.759133734203224,Brood transport,T_rugatulus.csv
+0.764566394011784,Transport,T_rugatulus.csv
+0.774531519139514,Transport,T_rugatulus.csv
+0.775609244244922,Brood transport,T_rugatulus.csv
+0.776028684711339,Transport,T_rugatulus.csv
+0.779062033572795,Reverse tandem run,T_rugatulus.csv
+0.788403432611594,Transport,T_rugatulus.csv
+0.789587202300039,Brood transport,T_rugatulus.csv
+0.794847766103274,Transport,T_rugatulus.csv
+0.799167027464432,Transport,T_rugatulus.csv
+0.799586049883873,Transport,T_rugatulus.csv
+0.800701399217165,Transport,T_rugatulus.csv
+0.801676284766354,Transport,T_rugatulus.csv
+0.8114312716139,Brood transport,T_rugatulus.csv
+0.812720667838406,Transport,T_rugatulus.csv
+0.814456677582802,Brood transport,T_rugatulus.csv
+0.815434489460827,Transport,T_rugatulus.csv
+0.827137435869852,Transport,T_rugatulus.csv
+0.82992441571316,Transport,T_rugatulus.csv
+0.831178974689625,Transport,T_rugatulus.csv
+0.833269209572105,Transport,T_rugatulus.csv
+0.847483364168943,Transport,T_rugatulus.csv
+0.868525480032892,Transport,T_rugatulus.csv
+0.888870014842061,Transport,T_rugatulus.csv
+0.932624065543077,Transport,T_rugatulus.csv
+1,Transport,T_rugatulus.csv
+0,Tandem run,T_sp1.csv
+0.049886383340702,Tandem run,T_sp1.csv
+0.164496768529774,Transport,T_sp1.csv
+0.184562296699715,Tandem run,T_sp1.csv
+0.207367516075645,Brood transport,T_sp1.csv
+0.225290532731857,Tandem run,T_sp1.csv
+0.260224364531993,Brood transport,T_sp1.csv
+0.265730982259823,Tandem run,T_sp1.csv
+0.300819329085229,Brood transport,T_sp1.csv
+0.319429583544785,Brood transport,T_sp1.csv
+0.345348344228973,Brood transport,T_sp1.csv
+0.387790226334553,Brood transport,T_sp1.csv
+0.401090502046734,Brood transport,T_sp1.csv
+0.403995602404334,Transport,T_sp1.csv
+0.429687038985539,Transport,T_sp1.csv
+0.435936817698598,Tandem run,T_sp1.csv
+0.440430463245487,Transport,T_sp1.csv
+0.440844621615218,Tandem run,T_sp1.csv
+0.480794653889067,Brood transport,T_sp1.csv
+0.486555467898187,Transport,T_sp1.csv
+0.498765059994862,Brood transport,T_sp1.csv
+1,Transport,T_sp1.csv
+0,Brood transport,T_stenotyle.csv
+0.0795261432147519,Tandem run,T_stenotyle.csv
+0.114783344498114,Tandem run,T_stenotyle.csv
+0.175898177202694,Tandem run,T_stenotyle.csv
+0.194108913412231,Transport,T_stenotyle.csv
+0.227017985090121,Brood transport,T_stenotyle.csv
+0.238572945190722,Tandem run,T_stenotyle.csv
+0.255031006749795,Transport,T_stenotyle.csv
+0.453059737451375,Transport,T_stenotyle.csv
+0.494189221481821,Transport,T_stenotyle.csv
+0.534149733416384,Brood transport,T_stenotyle.csv
+0.604856875350124,Transport,T_stenotyle.csv
+0.627971496511496,Transport,T_stenotyle.csv
+0.670866191086196,Transport,T_stenotyle.csv
+0.692999095065167,Transport,T_stenotyle.csv
+0.693607869407327,Tandem run,T_stenotyle.csv
+0.699289763267481,Transport,T_stenotyle.csv
+0.722206944101666,Transport,T_stenotyle.csv
+0.723773930825371,Transport,T_stenotyle.csv
+0.808393564385526,Transport,T_stenotyle.csv
+0.808984318380363,Transport,T_stenotyle.csv
+0.899712849682881,Transport,T_stenotyle.csv
+1,Transport,T_stenotyle.csv
