@@ -5,13 +5,13 @@ dat2 <- read.csv("comp_emigration_fullR.csv", header=T)
 
 library(nlme)
 d7<-dat2[complete.cases(dat2$adult_transports_percapita), ]
-m1 = lme(adult_transports_percapita ~ genus_group + latitude + workers ,random=~1|parasite, data = d7)
+m1 = lm(adult_transports_percapita ~ genus_group + latitude + workers + parasite, data = d7)
 summary(m1)
-m1 = lme(scout/workers ~ genus_group + latitude + workers ,random=~1|parasite, data = d7)
+m1 = lm(scout/workers ~ genus_group + latitude + workers + parasite, data = d7)
 summary(m1)
-m1 = lme(RTR/workers ~ genus_group + latitude + workers ,random=~1|parasite, data = d7)
+m1 = lm(RTR/workers ~ genus_group + latitude + workers + parasite, data = d7)
 summary(m1)
-m1 = lme(FTR/workers ~ genus_group + latitude + workers ,random=~1|parasite, data = d7)
+m1 = lm(FTR/workers ~ genus_group + latitude + workers + parasite, data = d7)
 summary(m1)
 
 
